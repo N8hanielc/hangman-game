@@ -11,7 +11,7 @@ This is a simple Hangman game built with **React Class Components**.
 ### Setup Instructions:
 1. Clone this repository:
    ```
-   git clone https://github.com/YOUR_USERNAME/hangman-game.git
+   git clone https://github.com/n8hanielc/hangman-game.git
    cd hangman-game
    ```
 

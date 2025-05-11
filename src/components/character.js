@@ -1,3 +1,5 @@
+import "./Hangman.css";
+
 import React, { Component } from "react";
 
 const images = [
